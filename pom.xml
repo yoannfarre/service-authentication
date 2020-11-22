@@ -52,13 +52,13 @@
 
 	<build>
 		<sourceDirectory>src</sourceDirectory>
-		<finalName>Authentication</finalName>
+		<finalName>authentication</finalName>
 		<plugins>
 			<plugin>
 				<artifactId>maven-compiler-plugin</artifactId>
 				<version>3.8.1</version>
 				<configuration>
-					<release>11</release>
+					<release>8</release>
 				</configuration>
 			</plugin>
 			<plugin>
